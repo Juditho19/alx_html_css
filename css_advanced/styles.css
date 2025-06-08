@@ -3,7 +3,7 @@ body {
   font-family: Arial, sans-serif;
 
   
-  background-image: url("../images/Object.png");
+  background-image: url("CSS Advanced images/Object.png");
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center;
@@ -29,7 +29,7 @@ nav {
   height: 40px;
 }
 .home-section {
-  background-image: url("../images/Object.png");
+  background-image: url("CSS Advanced images/Object.png");
   background-size: cover;
   background-position: center;
   padding: 100px 20px;
