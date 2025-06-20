@@ -1,27 +1,12 @@
-🖼️ Design Reference
+# 🎧 Headphones Landing Page
 
-This project was built following a Figma file provided in the curriculum.  
-Designer: **Nicolas Philippot**
+This is a responsive landing page for a fictional headphone brand, built as part of the **ALX Front-End Development Program**.  
+It replicates a professionally designed user interface created in Figma by UI/UX designer **Nicolas Philippot**.
 
-🧠 Key Learnings
+The goal of this project is to demonstrate mastery of:
+- Semantic HTML5
+- Custom CSS styling
+- Responsive design (mobile-first)
+- Accessibility best practices
 
-- How to convert UI designs into code
-- Creating responsive layouts from scratch
-- Using custom fonts and icon fonts
-- Building accessible and semantic HTML structure
-
-⚠️ Constraints
-
-- No external CSS libraries (e.g., Bootstrap)
-- JavaScript only allowed in Task 8
-
-🙌 Acknowledgements
-
-- [Source Sans Pro Font](https://fonts.google.com/specimen/Source+Sans+Pro)
-- [Spin Cycle OT Font](https://www.dafontfree.io/spin-cycle-font/)
-- [Figma Design by Nicolas Philippot](https://figma.com)
-
-🏁 Status
-
-✅ Completed all tasks in the ALX HTML & CSS module
-
+This project was built completely from scratch — no CSS frameworks, and no JavaScript (until the final task).
