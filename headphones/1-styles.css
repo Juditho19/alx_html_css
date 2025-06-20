@@ -132,3 +132,24 @@ a:active
     font-size: 24px;
     }
 } 
+
+
+.what-we-do{
+    background-color: white ;
+    color: black;
+    /* padding: 30px 5vw 30px 5vw; */
+    padding: auto 5vw auto 5vw;
+    display: flex ;
+    text-align: center;
+
+
+}
+.what-we-do h2{
+    font-family: 'Spin Cycle', spin-cycle;
+    /* text-align: center;
+    align-items:center; */
+
+}
+.service i{
+    color: #FF6565;
+}
